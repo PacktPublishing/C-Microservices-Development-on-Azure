@@ -1,0 +1,32 @@
+<li class="list-group-item">
+    <div *ngIf="!editMode" class="d-flex justify-content-between list-group-new-item" (click)="toggleEditMode()">
+        <h4 class="add-to-do">Add To-Do</h4>
+        <span>
+            <i class="fas fa-plus"></i>
+        </span>
+    </div>
+    <div *ngIf="editMode">
+        <form (submit)="save()">
+            <div class="row">
+                <div class="col-5">
+                    <div class="form-group bmd-form-group">
+                        <input type="text" class="form-control" [formControl]="titleInput" placeholder="Title">
+                    </div>
+                </div>
+                <div class="col-6">
+                    <div class="form-group bmd-form-group">
+                        <input type="text" class="form-control" [formControl]="bodyInput" placeholder="Body">
+                    </div>
+                </div>
+                <div class="col-1 d-flex justify-content-between">
+                    <button class="icon-btn">
+                       <i class="fas fa-plus"></i>
+                    </button>
+                    <button class="icon-btn" (click)="editMode = false">
+                        <i class="fas fa-times"></i>
+                    </button>
+                </div>
+            </div>
+        </form>
+    </div>
+</li>

@@ -1,0 +1,17 @@
+C:\Users\dimlu\Desktop\MyToDoList\Identity\obj\Debug\netcoreapp2.1\win7-x64\Identity.csproj.CoreCompileInputs.cache
+C:\Users\dimlu\Desktop\MyToDoList\Identity\obj\Debug\netcoreapp2.1\win7-x64\Identity.AssemblyInfoInputs.cache
+C:\Users\dimlu\Desktop\MyToDoList\Identity\obj\Debug\netcoreapp2.1\win7-x64\Identity.AssemblyInfo.cs
+C:\Users\dimlu\Desktop\MyToDoList\Identity\bin\Debug\netcoreapp2.1\win7-x64\hostpolicy.dll
+C:\Users\dimlu\Desktop\MyToDoList\Identity\bin\Debug\netcoreapp2.1\win7-x64\hostfxr.dll
+C:\Users\dimlu\Desktop\MyToDoList\Identity\bin\Debug\netcoreapp2.1\win7-x64\Identity.exe
+C:\Users\dimlu\Desktop\MyToDoList\Identity\bin\Debug\netcoreapp2.1\win7-x64\Identity.deps.json
+C:\Users\dimlu\Desktop\MyToDoList\Identity\bin\Debug\netcoreapp2.1\win7-x64\Identity.runtimeconfig.json
+C:\Users\dimlu\Desktop\MyToDoList\Identity\bin\Debug\netcoreapp2.1\win7-x64\Identity.runtimeconfig.dev.json
+C:\Users\dimlu\Desktop\MyToDoList\Identity\bin\Debug\netcoreapp2.1\win7-x64\Identity.dll
+C:\Users\dimlu\Desktop\MyToDoList\Identity\bin\Debug\netcoreapp2.1\win7-x64\Identity.pdb
+C:\Users\dimlu\Desktop\MyToDoList\Identity\obj\Debug\netcoreapp2.1\win7-x64\Identity.csprojAssemblyReference.cache
+C:\Users\dimlu\Desktop\MyToDoList\Identity\obj\Debug\netcoreapp2.1\win7-x64\Identity.RazorAssemblyInfo.cache
+C:\Users\dimlu\Desktop\MyToDoList\Identity\obj\Debug\netcoreapp2.1\win7-x64\Identity.RazorAssemblyInfo.cs
+C:\Users\dimlu\Desktop\MyToDoList\Identity\obj\Debug\netcoreapp2.1\win7-x64\Identity.RazorTargetAssemblyInfo.cache
+C:\Users\dimlu\Desktop\MyToDoList\Identity\obj\Debug\netcoreapp2.1\win7-x64\Identity.dll
+C:\Users\dimlu\Desktop\MyToDoList\Identity\obj\Debug\netcoreapp2.1\win7-x64\Identity.pdb

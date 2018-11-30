@@ -1,0 +1,17 @@
+C:\Users\dimlu\Desktop\MyToDoList\ToDosService\obj\Debug\netcoreapp2.1\win7-x64\ToDosService.csproj.CoreCompileInputs.cache
+C:\Users\dimlu\Desktop\MyToDoList\ToDosService\obj\Debug\netcoreapp2.1\win7-x64\ToDosService.AssemblyInfoInputs.cache
+C:\Users\dimlu\Desktop\MyToDoList\ToDosService\obj\Debug\netcoreapp2.1\win7-x64\ToDosService.AssemblyInfo.cs
+C:\Users\dimlu\Desktop\MyToDoList\ToDosService\bin\Debug\netcoreapp2.1\win7-x64\hostpolicy.dll
+C:\Users\dimlu\Desktop\MyToDoList\ToDosService\bin\Debug\netcoreapp2.1\win7-x64\hostfxr.dll
+C:\Users\dimlu\Desktop\MyToDoList\ToDosService\bin\Debug\netcoreapp2.1\win7-x64\ToDosService.exe
+C:\Users\dimlu\Desktop\MyToDoList\ToDosService\bin\Debug\netcoreapp2.1\win7-x64\ToDosService.deps.json
+C:\Users\dimlu\Desktop\MyToDoList\ToDosService\bin\Debug\netcoreapp2.1\win7-x64\ToDosService.runtimeconfig.json
+C:\Users\dimlu\Desktop\MyToDoList\ToDosService\bin\Debug\netcoreapp2.1\win7-x64\ToDosService.runtimeconfig.dev.json
+C:\Users\dimlu\Desktop\MyToDoList\ToDosService\bin\Debug\netcoreapp2.1\win7-x64\ToDosService.dll
+C:\Users\dimlu\Desktop\MyToDoList\ToDosService\bin\Debug\netcoreapp2.1\win7-x64\ToDosService.pdb
+C:\Users\dimlu\Desktop\MyToDoList\ToDosService\obj\Debug\netcoreapp2.1\win7-x64\ToDosService.csprojAssemblyReference.cache
+C:\Users\dimlu\Desktop\MyToDoList\ToDosService\obj\Debug\netcoreapp2.1\win7-x64\ToDosService.RazorAssemblyInfo.cache
+C:\Users\dimlu\Desktop\MyToDoList\ToDosService\obj\Debug\netcoreapp2.1\win7-x64\ToDosService.RazorAssemblyInfo.cs
+C:\Users\dimlu\Desktop\MyToDoList\ToDosService\obj\Debug\netcoreapp2.1\win7-x64\ToDosService.RazorTargetAssemblyInfo.cache
+C:\Users\dimlu\Desktop\MyToDoList\ToDosService\obj\Debug\netcoreapp2.1\win7-x64\ToDosService.dll
+C:\Users\dimlu\Desktop\MyToDoList\ToDosService\obj\Debug\netcoreapp2.1\win7-x64\ToDosService.pdb

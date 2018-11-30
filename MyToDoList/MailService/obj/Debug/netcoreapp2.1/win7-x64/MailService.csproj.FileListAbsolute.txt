@@ -1,0 +1,17 @@
+C:\Users\dimlu\Desktop\MyToDoList\MailService\obj\Debug\netcoreapp2.1\win7-x64\MailService.csproj.CoreCompileInputs.cache
+C:\Users\dimlu\Desktop\MyToDoList\MailService\obj\Debug\netcoreapp2.1\win7-x64\MailService.AssemblyInfoInputs.cache
+C:\Users\dimlu\Desktop\MyToDoList\MailService\obj\Debug\netcoreapp2.1\win7-x64\MailService.AssemblyInfo.cs
+C:\Users\dimlu\Desktop\MyToDoList\MailService\bin\Debug\netcoreapp2.1\win7-x64\hostpolicy.dll
+C:\Users\dimlu\Desktop\MyToDoList\MailService\bin\Debug\netcoreapp2.1\win7-x64\hostfxr.dll
+C:\Users\dimlu\Desktop\MyToDoList\MailService\bin\Debug\netcoreapp2.1\win7-x64\MailService.exe
+C:\Users\dimlu\Desktop\MyToDoList\MailService\bin\Debug\netcoreapp2.1\win7-x64\MailService.deps.json
+C:\Users\dimlu\Desktop\MyToDoList\MailService\bin\Debug\netcoreapp2.1\win7-x64\MailService.runtimeconfig.json
+C:\Users\dimlu\Desktop\MyToDoList\MailService\bin\Debug\netcoreapp2.1\win7-x64\MailService.runtimeconfig.dev.json
+C:\Users\dimlu\Desktop\MyToDoList\MailService\bin\Debug\netcoreapp2.1\win7-x64\MailService.dll
+C:\Users\dimlu\Desktop\MyToDoList\MailService\obj\Debug\netcoreapp2.1\win7-x64\MailService.csprojAssemblyReference.cache
+C:\Users\dimlu\Desktop\MyToDoList\MailService\obj\Debug\netcoreapp2.1\win7-x64\MailService.RazorAssemblyInfo.cache
+C:\Users\dimlu\Desktop\MyToDoList\MailService\obj\Debug\netcoreapp2.1\win7-x64\MailService.RazorAssemblyInfo.cs
+C:\Users\dimlu\Desktop\MyToDoList\MailService\obj\Debug\netcoreapp2.1\win7-x64\MailService.RazorTargetAssemblyInfo.cache
+C:\Users\dimlu\Desktop\MyToDoList\MailService\bin\Debug\netcoreapp2.1\win7-x64\MailService.pdb
+C:\Users\dimlu\Desktop\MyToDoList\MailService\obj\Debug\netcoreapp2.1\win7-x64\MailService.dll
+C:\Users\dimlu\Desktop\MyToDoList\MailService\obj\Debug\netcoreapp2.1\win7-x64\MailService.pdb

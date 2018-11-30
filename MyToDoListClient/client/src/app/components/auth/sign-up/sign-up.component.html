@@ -1,0 +1,43 @@
+<div class="col-12">
+    <div class="card">
+        <div class="card-header card-header-primary">Sign Up</div>
+        <div class="card-body">
+            <form (submit)="signUp()">
+                <div class="row">
+                    <div class="col-6">
+                        <div class="form-group bmd-form-group" [ngClass]="firstNameInput | formGroupStatus">
+                            <input type="text" class="form-control" [formControl]="firstNameInput" placeholder="First Name" [ngClass]="firstNameInput | formControlStatus">
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <div class="form-group bmd-form-group">
+                            <input type="text" class="form-control" [formControl]="lastNameInput" placeholder="Last Name">
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <div class="form-group bmd-form-group">
+                            <input type="email" class="form-control" [formControl]="emailInput" placeholder="Email Address">
+                            <span *ngIf="emailInput.touched && emailInput.invalid" class="form-control-feedback">Invalid value</span>
+                        </div>
+                    </div>
+                </div>        
+                <div class="row">
+                    <div class="col-12">
+                        <div class="form-group bmd-form-group">
+                            <input type="password" class="form-control" [formControl]="passwordInput" placeholder="Password" [ngClass]="passwordInput | formControlStatus">
+                            <span *ngIf="passwordInput.touched && passwordInput.invalid" class="form-control-feedback">Invalid value</span> 
+                        </div>
+                    </div>
+                </div>  
+                <div class="form-group bmd-form-group">
+                    <button type="submit" class="btn btn-primary">Sign Up</button>
+                </div>      
+            </form>
+            <div class="alert alert-danger" *ngIf="signUpFailed || (signUpForm.dirty && signUpForm.invalid)">
+                {{errorMessage}}
+            </div>
+        </div>
+    </div>
+</div>

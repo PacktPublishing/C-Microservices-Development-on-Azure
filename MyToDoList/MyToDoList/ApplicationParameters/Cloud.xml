@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="fabric:/MyToDoList" xmlns="http://schemas.microsoft.com/2011/01/fabric">
+  <Parameters>
+    <Parameter Name="MailService_InstanceCount" Value="-1" />
+    <Parameter Name="Identity_InstanceCount" Value="1" />
+    <Parameter Name="ToDosService_InstanceCount" Value="1" />
+    <Parameter Name="MailService_ASPNETCORE_ENVIRONMENT" Value="Production" />
+    <Parameter Name="Identity_ASPNETCORE_ENVIRONMENT" Value="Production" />
+    <Parameter Name="ToDosService_ASPNETCORE_ENVIRONMENT" Value="Production" />
+    <Parameter Name="Identity_CONNECTION_STRING" Value="Server=tcp:dimlucas.database.windows.net,1433;Initial Catalog=Identity.MyToDoList;Persist Security Info=False;User ID={your_username};Password={your_password};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" />
+    <Parameter Name="ToDosService_CONNECTION_STRING" Value="Server=tcp:dimlucas.database.windows.net,1433;Initial Catalog=ToDos.MyToDoList;Persist Security Info=False;User ID={your_username};Password={your_password};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" />
+    <Parameter Name="ISSUER" Value="MyToDoList" />
+    <Parameter Name="AUDIENCE" Value="MyToDoList" />
+    <Parameter Name="JWT_SECRET" Value="dsaofua9psfua67-gffshasdf" />
+    <Parameter Name="SEND_GRID_APP_ID" Value="_DDXD2UWRVKW8Huc0HeoVQ" />
+    <Parameter Name="SEND_GRID_API_KEY" Value="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" />
+    <Parameter Name="DEFAULT_FROM_EMAIL" Value="dimlucas@outlook.com" />
+  </Parameters>
+</Application>

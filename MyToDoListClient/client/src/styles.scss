@@ -1,0 +1,82 @@
+/* You can add global styles to this file, and also import other style files */
+$green:   #28a745;
+$red:     #dc3545;
+$orange:  #fd7e14;
+$purple: #9c27b0;
+
+div.form-group {
+    &.has-success {
+        .form-control-feedback {
+            color: $green;
+        }
+    }
+
+    &.has-warning {
+        .form-control-feedback {
+            color: $orange;
+        }
+    }
+
+    &.has-danger {
+        .form-control-feedback {
+            color: $red;
+        }
+    }
+}
+
+.form-control {
+    &.form-control-success {
+        border-color: $green;
+    }
+
+    &.form-control-warning {
+        border-color: $orange;
+    }
+
+    &.form-control-danger {
+        border-color: $red;
+    }
+}
+
+.bmd-form-group {
+    .form-control {
+        &:invalid {
+            border-color: $red;
+        }
+
+        &:valid {
+            border-color: $green;
+        }
+    }
+}
+
+.list-group {
+    .list-group-item {
+        background-color: white;
+        border-radius: 7px !important;
+        border-style: solid;
+        border-width: 1px;
+        border-color: #dadfe1;
+
+        &:hover {
+            border-color: $purple;
+        }
+
+        h1, h2, h3, h4, h5, h6 {
+            margin: 0 !important;
+        }
+    }
+}
+
+button.icon-btn {
+    text-decoration: none;
+    background-color: transparent;
+    outline: none;
+    border: none;
+    cursor: pointer;
+
+    &:hover, &:focus, &:active {
+        outline: none;
+        border: none;
+    }
+}
